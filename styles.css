@@ -5,3 +5,27 @@ body {
 h1 {
   font-family: 'Nunito Sans', sans-serif;
 }
+
+.navbar-nav {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  font-weight: black;
+  font-color: #FFFFFF;
+}   
+
+.navbar {
+  background: none;
+  border: 0;
+}
+
+.backimage {
+  background-image: url('images/lan_image.jpg');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.navbar-inverse {
+  fon
+}
