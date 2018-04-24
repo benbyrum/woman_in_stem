@@ -33,7 +33,7 @@ p {
 }
 */
 
-.backimage-1 {
+.backimage {
 
   background-image: linear-gradient(to right, rgba(68,11,160,.6), transparent), /*url('images/lan_image.jpg'*/ url('woman_in_stem/Images/lan_image.jpg');
 
