@@ -34,11 +34,9 @@ p {
 */
 
 .backimage {
-<<<<<<< HEAD
-  background-image: linear-gradient(to right, rgba(68,11,160,.6), transparent), /*url('images/lan_image.jpg')*/ url('https://i.imgur.com/r7HugzW.jpg');
-=======
+
   background-image: linear-gradient(to right, rgba(68,11,160,.6), transparent), /*url('images/lan_image.jpg'*/ url('woman_in_stem/Images/lan_image.jpg');
->>>>>>> 33e8b5e47740cd2a774b88e24d7de9499e068dd9
+
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
