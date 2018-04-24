@@ -34,7 +34,7 @@ p {
 */
 
 .backimage {
-  background-image: linear-gradient(to right, rgba(68,11,160,.6), transparent), url('images/lan_image.jpg');
+  background-image: linear-gradient(to right, rgba(68,11,160,.6), transparent), /*url('images/lan_image.jpg')*/ url('https://i.imgur.com/r7HugzW.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
